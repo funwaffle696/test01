@@ -1,4 +1,4 @@
-# Learning GitHub
+# 簡易Git & GitHub使用
 ## 步驟
 1. 需要的工具
   * 下載[Git](https://git-scm.com/)
