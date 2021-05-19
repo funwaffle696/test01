@@ -5,7 +5,7 @@
 
 2. 在Git下指令
 ```
-cd <要開發的專案資料夾路徑>
+cd D:\GitHub\test01 //記得改放自己的資料夾路徑 
 git init
 git add .
 git commit -m "做了什麼事可以打上來 ex:變更標題顏色"
