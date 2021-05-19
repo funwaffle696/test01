@@ -18,6 +18,7 @@ git commit -m "做了什麼事可以打上來 ex:變更標題顏色"
 ![step2](/images/step2.PNG "step2")
 
 ![step3](/images/step3.PNG "step3")
+上圖的指令"origin"這個節點名稱可以自行更改,之後執行指令記得自己打了什麼就好.
 
 ## 之後要push就執行下面指令,記得要在對的路徑下執行
 ```
